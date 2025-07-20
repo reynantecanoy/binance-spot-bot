@@ -1,0 +1,4 @@
+# Para hindi maisama ang sensitive info at temp files
+.env
+__pycache__/
+*.pyc
